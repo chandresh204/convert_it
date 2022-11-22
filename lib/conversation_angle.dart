@@ -52,7 +52,7 @@ class _ConversationAngleState extends State<ConversationAngle> {
                 },
                 icon: const Icon(Icons.arrow_back, color: Colors.white,)
             ),
-            const Text('Temperature', style: TextStyle(fontSize: Constants.appBarFontSize, color: Colors.white),)
+            const Text('Angle', style: TextStyle(fontSize: Constants.appBarFontSize, color: Colors.white),)
           ],
         ),
       ]),

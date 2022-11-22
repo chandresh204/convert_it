@@ -20,4 +20,6 @@ class Constants {
       return doubleValue.toString();
     }
   }
+
+  static String playStoreUrl = 'https://play.google.com/store/apps/details?id=chad.orionsoft.convert_it';
 }
